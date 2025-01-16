@@ -1,2 +1,5 @@
-# awesome-n8n
-A collection of N8N Workflow
+# Awesome N8N Workflows
+
+A curated list of awesome N8N workflows.
+
+
